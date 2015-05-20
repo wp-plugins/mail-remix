@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: email, wp_mail, phpmailer, templates, html emails
 Requires at least: 3.2
 Tested up to: 4.2.2
-Stable tag: 150517
+Stable tag: 150520
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -41,6 +41,7 @@ will be left as-is.
 1. Mail Remix Templating Admin Page
 2. Base Template
 3. Transport Options
+4. Basic Config
 
 == Changelog ==
 
