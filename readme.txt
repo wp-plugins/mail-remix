@@ -12,7 +12,7 @@ Take your WordPress emails to the next level with HTML Templates. Replacement Co
 
 == Description ==
 
-*Mail Remix brings HTML email templates to your WordPress installation.*
+Mail Remix brings HTML email templates to your WordPress installation.
 
 Emails from WordPress (by default) come in a plaintext format. Mail Remix takes your WordPress emails and spices them up into a **customizable HTML template**.
 
