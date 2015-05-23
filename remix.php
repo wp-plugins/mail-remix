@@ -4,7 +4,7 @@
  * Author: Code By Jinx
  * Author URI: http://byjinx.com/
  * Description: Take your WordPress emails to the next level with HTML Templates. Replacement Codes, Shortcodes, Markdown, Inline PHP, and more!
- * Version: 150517
+ * Version: 150520
  */
 
 /**
