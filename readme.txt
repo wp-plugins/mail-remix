@@ -1,7 +1,7 @@
 === Mail Remix ===
-Contributors: code-by-jinx
+Contributors: Code by Jinx
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YS46UW6PLH286
-Tags: email, wp_mail, phpmailer, templates, html emails
+Tags: email, wp_mail, phpmailer, templates, html, smtp
 Requires at least: 3.2
 Tested up to: 4.2.2
 Stable tag: 150520
@@ -14,10 +14,30 @@ Take your WordPress emails to the next level with HTML Templates. Replacement Co
 
 Mail Remix brings HTML email templates to your WordPress installation.
 
-Emails from WordPress (by default) come in a plaintext format. Mail Remix takes your WordPress emails and spices them up into a **customizable HTML template**.
+Emails from WordPress (by default) come in a plaintext format. Mail Remix takes your WordPress emails and spices them up into a **customizable
+HTML template**.
 
 This template has been checked in some of the most popular email clients, like GMail, Yahoo Mail, Hotmail, Outlook, and others and based off of
 code from some of the most popular templates available.
+
+### Simplicity is Key
+
+Mail Remix also offers an option to send emails via SMTP, including `FROM` and `RETURN-PATH` HTTP header customization. Need to integrate
+with an external mail service? No problem!
+
+### Built With Love
+
+Mail Remix is built with the latest and greatest in PHP version 5.3, and fully commented, documented, and licensed with GPL v3.0. Want
+to check out the source code and keep up with development? Follow us on [GitHub](http://github.com/byjinx/mail-remix)!
+
+### What's Next?
+
+Development on Mail Remix is ongoing. Here's our TODO list:
+
+ - Expanding on the customization options within our base template (Clean)
+ - Releasing several new email themes for greater flexibility
+ - WordPress Internationalization via I18n
+ - Default email customization
 
 == Installation ==
 
